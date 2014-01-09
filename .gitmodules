@@ -126,3 +126,7 @@
 	path = ono
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = ono.gh-pages
+[submodule "ikeda"]
+	path = ikeda
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = ikeda.gh-pages
