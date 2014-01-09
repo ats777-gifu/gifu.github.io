@@ -110,3 +110,7 @@
 	path = godo
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = godo.gh-pages
+[submodule "wanouchi"]
+	path = wanouchi
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = wanouchi.gh-pages
