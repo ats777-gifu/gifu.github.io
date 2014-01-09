@@ -150,3 +150,7 @@
 	path = hichiso
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = hichiso.gh-pages
+[submodule "yaotsu"]
+	path = yaotsu
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = yaotsu.gh-pages
