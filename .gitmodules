@@ -118,3 +118,7 @@
 	path = anpachi
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = anpachi.gh-pages
+[submodule "ibigawa"]
+	path = ibigawa
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = ibigawa.gh-pages
