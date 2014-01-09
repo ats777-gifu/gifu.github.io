@@ -90,3 +90,7 @@
 	path = ginan
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = ginan.gh-pages
+[submodule "kasamatsu"]
+	path = kasamatsu
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = kasamatsu.gh-pages
