@@ -38,3 +38,7 @@
 	path = hashima
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = hashima.gh-pages
+[submodule "ena"]
+	path = ena
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = ena.gh-pages
