@@ -6,3 +6,7 @@
 	path = ogaki
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = ogaki.gh-pages
+[submodule "takayama"]
+	path = takayama
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = takayama.gh-pages
