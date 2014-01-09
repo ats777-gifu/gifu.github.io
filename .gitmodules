@@ -98,3 +98,7 @@
 	path = yoro
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = yoro.gh-pages
+[submodule "tarui"]
+	path = tarui
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = tarui.gh-pages
