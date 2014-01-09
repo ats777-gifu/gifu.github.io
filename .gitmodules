@@ -50,3 +50,7 @@
 	path = toki
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = toki.gh-pages
+[submodule "kakamigahara"]
+	path = kakamigahara
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = kakamigahara.gh-pages
