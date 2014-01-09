@@ -82,3 +82,7 @@
 	path = gero
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = gero.gh-pages
+[submodule "kaizu"]
+	path = kaizu
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = kaizu.gh-pages
