@@ -2,3 +2,7 @@
 	path = gifu
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = gifu.gh-pages
+[submodule "ogaki"]
+	path = ogaki
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = ogaki.gh-pages
