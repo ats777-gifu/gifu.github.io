@@ -78,3 +78,7 @@
 	path = gujo
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = gujo.gh-pages
+[submodule "gero"]
+	path = gero
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = gero.gh-pages
