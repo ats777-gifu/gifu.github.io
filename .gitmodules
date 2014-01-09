@@ -66,3 +66,7 @@
 	path = mizuho
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = mizuho.gh-pages
+[submodule "hida"]
+	path = hida
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = hida.gh-pages
