@@ -1,0 +1,4 @@
+[submodule "gifu"]
+	path = gifu
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = gifu.gh-pages
