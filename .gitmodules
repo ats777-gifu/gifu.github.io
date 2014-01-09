@@ -142,3 +142,7 @@
 	path = tomika
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = tomika.gh-pages
+[submodule "kawabe"]
+	path = kawabe
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = kawabe.gh-pages
