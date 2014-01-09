@@ -122,3 +122,7 @@
 	path = ibigawa
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = ibigawa.gh-pages
+[submodule "ono"]
+	path = ono
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = ono.gh-pages
