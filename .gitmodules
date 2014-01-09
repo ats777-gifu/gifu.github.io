@@ -22,3 +22,7 @@
 	path = seki
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = seki.gh-pages
+[submodule "nakatsugawa"]
+	path = nakatsugawa
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = nakatsugawa.gh-pages
