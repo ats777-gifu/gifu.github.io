@@ -86,3 +86,7 @@
 	path = kaizu
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = kaizu.gh-pages
+[submodule "ginan"]
+	path = ginan
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = ginan.gh-pages
