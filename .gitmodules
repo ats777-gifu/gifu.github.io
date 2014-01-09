@@ -134,3 +134,7 @@
 	path = kitagata
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = kitagata.gh-pages
+[submodule "sakahogi"]
+	path = sakahogi
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = sakahogi.gh-pages
