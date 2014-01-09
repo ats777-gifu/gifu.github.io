@@ -58,3 +58,7 @@
 	path = kani
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = kani.gh-pages
+[submodule "yamagata"]
+	path = yamagata
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = yamagata.gh-pages
