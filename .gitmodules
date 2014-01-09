@@ -30,3 +30,7 @@
 	path = mino
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = mino.gh-pages
+[submodule "mizunami"]
+	path = mizunami
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = mizunami.gh-pages
