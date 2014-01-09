@@ -102,3 +102,7 @@
 	path = tarui
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = tarui.gh-pages
+[submodule "sekigahara"]
+	path = sekigahara
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = sekigahara.gh-pages
