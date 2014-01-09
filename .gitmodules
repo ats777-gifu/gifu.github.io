@@ -146,3 +146,7 @@
 	path = kawabe
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = kawabe.gh-pages
+[submodule "hichiso"]
+	path = hichiso
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = hichiso.gh-pages
