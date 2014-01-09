@@ -26,3 +26,7 @@
 	path = nakatsugawa
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = nakatsugawa.gh-pages
+[submodule "mino"]
+	path = mino
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = mino.gh-pages
