@@ -34,3 +34,7 @@
 	path = mizunami
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = mizunami.gh-pages
+[submodule "hashima"]
+	path = hashima
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = hashima.gh-pages
