@@ -18,3 +18,7 @@
 	path = tajimi
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = tajimi.gh-pages
+[submodule "seki"]
+	path = seki
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = seki.gh-pages
