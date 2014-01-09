@@ -162,3 +162,7 @@
 	path = higashishirakawamura
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = higashishirakawamura.gh-pages
+[submodule "shirakawamura"]
+	path = shirakawamura
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = shirakawamura.gh-pages
