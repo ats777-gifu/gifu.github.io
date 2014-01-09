@@ -10,3 +10,7 @@
 	path = takayama
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = takayama.gh-pages
+[submodule "mitake"]
+	path = mitake
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = mitake.gh-pages
