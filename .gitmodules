@@ -106,3 +106,7 @@
 	path = sekigahara
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = sekigahara.gh-pages
+[submodule "godo"]
+	path = godo
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = godo.gh-pages
