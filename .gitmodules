@@ -138,3 +138,7 @@
 	path = sakahogi
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = sakahogi.gh-pages
+[submodule "tomika"]
+	path = tomika
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = tomika.gh-pages
