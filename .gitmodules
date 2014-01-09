@@ -42,3 +42,7 @@
 	path = ena
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = ena.gh-pages
+[submodule "minokamo"]
+	path = minokamo
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = minokamo.gh-pages
