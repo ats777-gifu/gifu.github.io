@@ -94,3 +94,7 @@
 	path = kasamatsu
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = kasamatsu.gh-pages
+[submodule "yoro"]
+	path = yoro
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = yoro.gh-pages
