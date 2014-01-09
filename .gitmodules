@@ -62,3 +62,7 @@
 	path = yamagata
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = yamagata.gh-pages
+[submodule "mizuho"]
+	path = mizuho
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = mizuho.gh-pages
