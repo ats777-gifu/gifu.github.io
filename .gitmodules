@@ -70,3 +70,7 @@
 	path = hida
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = hida.gh-pages
+[submodule "motosu"]
+	path = motosu
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = motosu.gh-pages
