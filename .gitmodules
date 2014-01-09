@@ -130,3 +130,7 @@
 	path = ikeda
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = ikeda.gh-pages
+[submodule "kitagata"]
+	path = kitagata
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = kitagata.gh-pages
