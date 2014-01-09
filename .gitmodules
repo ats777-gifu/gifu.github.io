@@ -46,3 +46,7 @@
 	path = minokamo
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = minokamo.gh-pages
+[submodule "toki"]
+	path = toki
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = toki.gh-pages
