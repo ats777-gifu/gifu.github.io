@@ -54,3 +54,7 @@
 	path = kakamigahara
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = kakamigahara.gh-pages
+[submodule "kani"]
+	path = kani
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = kani.gh-pages
