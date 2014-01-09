@@ -114,3 +114,7 @@
 	path = wanouchi
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = wanouchi.gh-pages
+[submodule "anpachi"]
+	path = anpachi
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = anpachi.gh-pages
