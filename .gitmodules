@@ -166,3 +166,7 @@
 	path = shirakawamura
 	url = https://github.com/gifu/orezeni.github.com.git
 	branch = shirakawamura.gh-pages
+[submodule "pref-gifu"]
+	path = pref-gifu
+	url = https://github.com/gifu/orezeni.github.com.git
+	branch = pref-gifu.gh-pages
